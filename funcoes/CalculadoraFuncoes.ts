@@ -43,7 +43,6 @@ do {
         default:
             console.log("Opcao invalida!")
 
-
     }
 
 } while (true)
